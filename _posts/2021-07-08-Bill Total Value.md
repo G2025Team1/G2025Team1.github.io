@@ -2,7 +2,7 @@
 title: Bill Total Value
 date: 2021-07-08
 categories:
-- STL
+- WJC
 tags: 
 - codeforces
 ---
