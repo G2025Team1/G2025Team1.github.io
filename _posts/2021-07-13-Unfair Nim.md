@@ -1,6 +1,8 @@
 ---
 title: Atcoder ABC Unfair Nim
 date: 2021-07-13 21:20:56
+categories:
+- CJG
 tags: [位运算, 乱搞]
 ---
 
@@ -45,8 +47,6 @@ $2:x = 1, y = 0$
 
 两个数都为1.
 
-$tmp += (1 << pos)$	
-
 $3:x = 0,y = 0$	
 
 不干啥。	
@@ -54,6 +54,9 @@ $3:x = 0,y = 0$
 $4:x = 0,y = 1$
 
 因为要使$a$最大，所以如果$tmp + (1 << pos) \leq x_1$		
+
+就
+$tmp += (1 << pos)$	
 
 
 
